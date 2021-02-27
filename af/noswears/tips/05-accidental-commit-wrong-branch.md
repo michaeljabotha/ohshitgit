@@ -13,7 +13,7 @@ git stash
 # skuif na die regte tak
 git checkout naam-van-regte-tak
 git stash pop
-git add . # of voef individuele leêrs by
+git add . # of voeg individuele leêrs by
 git commit -m "jou boodskap hier"
 # nou is jou wysigings op die regte tak
 ```
